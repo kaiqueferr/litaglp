@@ -1,0 +1,781 @@
+a
+{
+    
+}
+nav{
+    height: 109px;
+    width: 100%;
+    background-color: #4cff05;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+#banner1{
+    background-image: url("img1.jpg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    width: 100%;
+    height: 398px;
+}
+
+.st-cad
+{
+    margin-left: 280px;
+}
+
+
+#adesivo{
+    width: 1160px;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+#adesivo1{
+    float: left;
+    width: 500px;
+    height: 398px;
+    padding-right: 60px;
+    color:#525252 ;
+}
+#adesivo1 h2{
+
+    font-size: 50px;
+    margin: 0;
+    color:#525252 ;
+    font-weight: 800;
+    text-shadow: 3px 3px 3px #525252;
+}
+#adesivo2{
+    float: left;
+    width: 514px;
+    height: 494px;
+}
+
+#superadesivo
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#icones
+{
+    width: 1099px;
+    height: 266px;
+    margin-bottom: 50px;
+    
+}
+#supericones
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+
+.iconeformata
+{
+    width: 100%;
+    height: 266px;
+    color: #525252;
+}
+
+.iconeformata P
+{
+    text-align: center;
+}
+
+.define-icone
+{
+    width: 158px;
+    height: 158px;
+    background-color: #F3F3F3 ;
+    border-radius: 78px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 46px;
+    
+}
+
+#subicone1
+{
+    width: 250px;
+    height: 266px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    margin-right: 30px;
+}
+#subicone2
+{
+    width: 250px;
+    height: 266px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    margin-right: 30px;
+}
+#subicone3
+{
+    width: 250px;
+    height: 266px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    margin-right: 30px;
+}
+#subicone4
+{
+    width: 250px;
+    height: 266px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+
+#contratar
+{
+    width: 100%;
+    height: 438px;
+    background-color: #FAFAFA;
+}
+#cadestro
+{
+    width: 804px;
+    height: 519px;
+    
+}
+
+.subcadastro
+{
+    width: 804px;
+    height: 100px;
+    color: white;
+}
+
+#supercadestro
+{
+    width: 100%;
+    height: 669px;
+    background-color: #2fff05;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+#logo-img
+{
+    padding-top: 15px ;
+    padding-left: 50px;
+    float: left;
+    width: 20px;
+}
+
+.spmedidas
+{
+    width: 100px;
+    height: 100px;
+}
+
+#logo-img img
+{
+    width: 70px;
+    height: 70px;
+}
+
+#nav-item
+{
+    float: right;
+}
+
+.litag
+{
+    float: left;
+    margin-right: 80px;
+    margin-top: 39px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    margin: 10px 20px 30px 40px;
+    font-size: 40px;
+}
+
+.item1
+{
+    float: left;
+    margin-right: 80px;
+    margin-top: 39px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.item21
+{
+    float: left;
+    margin-right: 80px;
+    margin-top: 28px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    background-color:#525252 ;
+    border-radius: 10px;
+    width: 223px;
+    height: 53px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.item21 p
+{
+    margin: 0;
+}
+
+.item3 p
+{
+    margin: 0;
+    
+}
+
+.item21:hover
+{
+    color: rgb(0, 0, 0);
+    background-color:#8b8a8a ;
+}
+
+.item3 
+{
+    margin-right: 80px;
+    margin-top: 28px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    background-color:#4cff05 ;
+    border-radius: 10px;
+    width: 223px;
+    height: 53px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 80px ;
+    
+}
+
+.item3:hover
+{
+    color: rgb(0, 0, 0);
+    background-color:#cf9101 ;
+}
+
+.item5:hover
+{
+    color: rgb(0, 0, 0);
+    background-color:#cf9101 ;
+}
+
+.item4
+{
+    margin-right: 15px;
+    margin-top: 28px;
+    font-size: 20px;
+    color: #525252;
+    border-radius: 10px;
+    width: 240px;
+    height: 61px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: #525252 solid 1px;
+    float: left;  
+}
+
+.item5
+{
+    margin-top: 28px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    background-color:#4cff05 ;
+    border-radius: 10px;
+    width: 187px;
+    height: 63px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+    margin-left: 10px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.item7
+{
+    margin-right: 15px;
+    margin-top: 28px;
+    font-size: 20px;
+    color: #525252;
+    background-color: white;
+    border-radius: 10px;
+    width: 688px;
+    height: 61px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: #525252 solid 1px;
+    float: left;  
+    margin-left: 74px;
+}
+
+textarea:focus, input:focus {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+
+#superitem4
+{
+    width: 1014px;
+    height: 100px;
+    margin-left: 21px;
+}
+
+.busca
+{
+    float: left;
+}
+
+
+#superbusca
+{
+    width: 1050px;
+    height: 100px;
+    
+}
+
+#contratar
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#subcontratar
+{
+    width: 1056px;
+    height: 300px;
+}
+
+#subcontratar h2
+{
+    color: #525252;
+    font-size: 45px;
+    margin-left: 140px;
+    margin-top: 0;
+}
+
+.busca-input
+{
+    border: none;
+    width: 615px ;
+    margin-left: 10px;
+    font-size: 16px;
+
+}
+
+.rec-input
+{
+    font-size: 20px;
+    color: #525252;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 40px;
+    height: 61px;
+    border: #525252 solid 1px;
+    border: none;
+}
+
+#b-conteudo
+{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.582), rgba(252, 252, 252, 0));
+    width: 100%;
+    height: 100%;
+    
+}
+
+#sub-b
+{
+    margin-top: 0;
+    font-size: 50px;
+    font-weight: 800;
+    width: 812px ;
+}
+
+#sub-b p
+{
+    margin: 0;
+    margin-left: 30px;
+    padding: 50px;
+    padding-bottom: 0;
+    
+}
+
+#cadestro h2
+{
+    font-size: 64px;
+    color: white;
+    width: 804px;
+}
+
+
+.recomentdado1
+{
+    width: 384px;
+    height: 414px;
+    border: solid 1px #D0D0D0;
+    float: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.recomentdado1sub
+{
+    width: 315px;
+    height: 278px;
+    float: left;
+    
+}
+
+#recomentdados
+{
+    width: 1260px;
+    height: 528px;
+}
+
+#reco-titulo
+{
+    text-align: center; 
+    padding: 30px;
+    color: #525252;
+    font-size: 40px;
+}
+
+#superecomentdados
+{
+    width: 100%;
+    height: 530px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: #525252;
+}
+
+footer
+{
+    width: 100%;
+    height: 298px ;
+    margin-top: 140px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #FAFAFA;
+}
+
+.subpe
+{
+    padding-left: 35px;
+    padding-right: 35px;
+    color: #525252;
+    font-size: 13px;
+}
+.subpetitulo
+{
+    font-weight: bold;
+}
+
+.cadb
+{
+    font-weight: bold;
+}
+
+.pebox
+{
+    height:13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+@media(min-width: 1000px)
+{
+    .subcadastro2
+    {
+        display: none;
+        color: white;
+    }
+
+
+}
+
+@media(max-width: 1000px)
+{
+    .st-cad
+    {
+        margin: 0;
+        width: 60%;
+        margin-left: 20%;
+    }
+
+    #cadestro h2
+    {
+        width: 100%;
+    }
+    #supercadestro
+    {
+        height: 700px;
+        width: 100%;
+        margin-top: 400px;
+        align-items: initial;
+    }
+
+    #supercadestro h2
+    {
+        font-size: 40px;
+    }
+    .rec-input
+    {
+        width: 100%;
+    }
+    .subcadastro2
+    {
+        color: white;
+        padding: 20px;
+        width: 100;
+    }
+    .subcadastro
+    {
+        display: none;
+    }
+
+    #nav-item
+    {
+        display: none;
+    }
+
+    #sub-b
+    {
+        font-size: 30px;
+    }
+    #adesivo2 img{
+        float: none;
+        width: 100%;
+        height: auto;
+    }
+
+    #adesivo2{
+        float: none;
+        width: 100%;
+        height: auto;
+        padding-top: 20px;
+    }
+
+    #adesivo1
+    {
+        padding-right: 12px;
+        padding-top: 12px;
+        height: auto;
+        width: 100%;
+    }
+
+    #adesivo{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    #supericones .col-sm
+    {
+        padding: 20px;
+    }
+
+    .define-icone
+    {
+        margin-left: 33px;
+    }
+
+    #subicone1
+    {
+        margin: 20px;
+    }
+    #subicone2
+    {
+        margin: 20px;
+    }
+    #subicone3
+    {
+        margin: 20px;
+    }
+    #subicone4
+    {
+        margin: 20px;
+        padding-bottom: 10px;
+    }
+
+    #supericones
+    {
+        padding-bottom: 400px;
+    }
+
+    .item4
+    {
+        margin-right: 0;
+        margin-top: 28px;
+        font-size: 20px;
+        color: #525252;
+        border-radius: 10px;
+        width: 100%;
+        height: 61px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        border: #525252 solid 1px;
+        float: none;  
+    }
+
+    #superitem4
+    {
+        height: auto;
+        width: 100%;
+        padding: 20px;
+        margin: 0;
+    }
+
+    .item7
+    {
+        width: 100%;
+        margin: 0;
+    }
+
+    .item7 img
+    {
+        padding-left: 5px;
+    }
+
+    #superbusca
+    {
+        width: 100%;
+        margin: 0;
+        padding: 20px;
+        
+    }
+
+    #contratar
+    {
+        width: 100%;
+        margin-top: 10px;
+        height: auto;
+    }
+    #subcontratar
+    {
+        width: 100%;
+    }
+
+    #subcontratar h2
+    {
+        font-size: 30px;
+        margin: 0%;
+        padding: 20px;
+        text-align: center;
+    }
+
+    html{
+        height: auto;
+    }
+
+    .busca
+    {
+        width: 60%;
+        margin-left: 20%;
+    }
+    .recomentdado1
+    {
+        margin-top: 10px;
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+
+    #recomentdados
+    {
+        width: 100%;
+        padding: 20px;
+    }
+    .penone
+    {
+        display: none;
+    }
+
+    footer
+    {
+        margin-top: 1000px;
+        width: 100%;
+    }
+
+    #banner1{
+        background-image: url("img1.jpg");
+        background-size: cover;
+
+    }
+
+
+}
+@media(max-width: 570px)
+{
+    #supericones
+    {
+        padding-bottom: 850px;
+        
+    }
+    
+}
